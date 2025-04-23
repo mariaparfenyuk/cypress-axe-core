@@ -36,7 +36,7 @@ Merge JSON results
 Generate an HTML report in cypress/merged/report.html
 
 ## 📁 Folder structure
-
+```
 cypress/
 ├── e2e/                  # A11y test specs
 ├── support/
@@ -45,6 +45,7 @@ cypress/
 │   └── e2e.ts            # Support entry
 cypress.config.ts         # Cypress config
 tsconfig.json             # TypeScript config
+```
 
 ## 🛠 Dependencies
 cypress
